@@ -1,0 +1,5 @@
+To run my submission, 
+1. Clone the repo
+2. Run the docker container using : ./run.sh
+3. Access the Jupyter Notebook:
+Open a browser and go to `http://localhost:8888`
