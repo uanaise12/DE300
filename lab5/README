@@ -1,0 +1,6 @@
+## Running the Project
+
+1. Clone the repository:
+2. Run the Docker container: ./run.sh
+3. Access the Jupyter Notebook:
+Open a browser and go to `http://localhost:8888`.
